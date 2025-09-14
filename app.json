@@ -1,58 +1,58 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
-  "success_url": "/",
+  "success_url": "https://files.catbox.moe/qumhu4.jpg",
 
     "stack": "container",
   "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {malvin~4i9BgLYZ#rHKnee8gn0LAJFNZQN7SVRnWcaOoIQby5wj_TC9lLKs}
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~4i9BgLYZ#rHKnee8gn0LAJFNZQN7SVRnWcaOoIQby5wj_TC9lLKs",
         "required": true
         
     },
-      "BOT_NAME": {
+      "BOT_NAME": {𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪" 
         
     },
-     "PREFIX": {
+     "PREFIX": {.
        "description": "Bot command prefix, (e.g, . , ! @ etc",
       "value": "."
       "required": true,
       
     },
-      "MODE": {
+      "MODE": {privé}
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
         "value":"private",
         "required": true  
         
    },
-     "DESCRIPTION": {
+     "DESCRIPTION": {add caption for menu and other}
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "add caption for menu and orther",
       "required": true
       
    }, 
 
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {50955323616}
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "50955323616"
       "required": true
       
    },
-    "OWNER_NAME": {
+    "OWNER_NAME": {𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪⁶𖤍        •|BMF|•
       "description": "Enter your name here",
-      "value": "",
+      "value": "𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪⁶𖤍         •|BMF|•",
       "required": true
     }
 
 },
 
-     "buildpacks": [
+     "buildpacks": [on]
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }

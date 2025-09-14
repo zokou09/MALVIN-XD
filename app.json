@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-      "SESSION_ID": {malvin~4i9BgLYZ#rHKnee8gn0LAJFNZQN7SVRnWcaOoIQby5wj_TC9lLKs}
+      "SESSION_ID": {malvin~4i9BgLYZ#rHKnee8gn0LAJFNZQN7SVRnWcaOoIQby5wj_TC9lLKs
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
         "value":"malvin~4i9BgLYZ#rHKnee8gn0LAJFNZQN7SVRnWcaOoIQby5wj_TC9lLKs",
         "required": true
@@ -25,7 +25,7 @@
       "required": true,
       
     },
-      "MODE": {privé}
+      "MODE": {privé
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
         "value":"private",
         "required": true  
@@ -48,12 +48,10 @@
       "description": "Enter your name here",
       "value": "𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪⁶𖤍         •|BMF|•",
       "required": true
-    }
-
-},
+  
 
      "buildpacks": [on]
-        {
+        
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],

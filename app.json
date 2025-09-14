@@ -30,20 +30,18 @@
         "value":"private",
         "required": true  
         
-   },
      "DESCRIPTION": "add caption for menu and other"
       "description": "add caption for menu and other",
       "value": "add caption for menu and orther",
       "required": true
       
-   }, 
 
     "OWNER_NUMBER": "50955323616"
       "description": "put the owner number for bot.",
       "value": "50955323616"
       "required": true
       
-   },
+  
     "OWNER_NAME": "𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪⁶𖤍        •|BMF|•"
       "description": "Enter your name here",
       "value": "𓆩•𝐋'𝚮𝚯𝚳𝚳𝚵 𝐒𝚫𝚴 𝐂𝚮𝚫𝚪𝚳𝚵///𓆪⁶𖤍         •|BMF|•",
@@ -53,8 +51,7 @@
      "buildpacks": "on"
         
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
+        
   "stack": "heroku-24"
 
   
